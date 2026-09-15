@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hi, I'm Milan Kalsariya</h1>
 <h3 align="center">Frontend Web Developer | Passionate Problem Solver & Tech Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/mkalsariya9127">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+There%2C+I'm+Milan+Kalsariya+👋;Passionate+Frontend+Web+Developer+💻;Building+Modern%2C+Fast+%26+Responsive+Web+Apps+🚀;15%2B+Live+Projects+Deployed+on+Vercel+%26+Pages+🌐;Currently+Mastering+React.js+%26+Modern+UI+🌱" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://portfolio-milan139127.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -74,10 +70,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkalsariya9127&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Milan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkalsariya9127&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mkalsariya9127&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="97%" />
@@ -100,7 +93,7 @@ I am always thrilled to exchange ideas, contribute to open-source, or discuss ex
 
 - 🌐 **Portfolio:** [portfolio-milan139127.vercel.app](https://portfolio-milan139127.vercel.app)
 - 💼 **LinkedIn:** [Milan Kalsariya](https://www.linkedin.com/)
-- 📧 **Email:** [mkalsariya9127@gmail.com](mailto:mkalsariya9127@gmail.com)
+- 📧 **Email:** [milankalsariya9127@gmail.com](mailto:milankalsariya9127@gmail.com)
 - 🐙 **GitHub:** [@mkalsariya9127](https://github.com/mkalsariya9127)
 
 <br>
